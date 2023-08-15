@@ -6,6 +6,8 @@ public class Main {
         p2 = new Pessoa();
         //...
 
+        Pessoa p3 = new Pessoa();
+
 
         p1.nome= "Elliot Page";
         p1.rg = "22.222.222-2";
@@ -25,6 +27,8 @@ public class Main {
 
         p3.ANAC = "333.222";
         p3.cpf = "111.111.111-11";
+        p3.regular = true;
+
 
 
 
@@ -32,4 +36,3 @@ public class Main {
 
 
     }
-}

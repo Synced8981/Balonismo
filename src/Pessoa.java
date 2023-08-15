@@ -18,4 +18,10 @@ public class Pessoa {
     public void pesquisarEmpresa() {
 
     }
+
+    public void Pagar( Pessoa pagar300){
+        System.out.println("Pessoa pagou");
+    }
+
+
 }
